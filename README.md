@@ -1,6 +1,6 @@
 # Contains code for C# Database connection and VB Database Connection
 ## C#(Student solution) is a simple student web application, it also contains a project for saving into a CSV file while VB(VBDatabaseConn solution) is a console application
-##C#
+## C#.NET
 Contains a visual studio solution that has project for saving in a csv file and saving in a database
 
 ## CSV Example - CSV Student
@@ -15,5 +15,5 @@ Contains a visual studio solution that has project for saving in a csv file and 
 #### 4. You can then open the Database.cs file to how to connect and use it based on your own database connection.
 
 
-## VB
+## VB.NET
 Add the MySQL.Data and MySql.Web references as described in the C# above
